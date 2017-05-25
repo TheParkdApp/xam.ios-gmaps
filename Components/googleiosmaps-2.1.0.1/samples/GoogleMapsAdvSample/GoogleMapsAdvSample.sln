@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoogleMapsAdvSample", "GoogleMapsAdvSample\GoogleMapsAdvSample.csproj", "{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Release|iPhone.Build.0 = Release|iPhone
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{1AA78CE3-4FB5-4A85-B38C-320A5C8BDC8D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = GoogleMapsAdvSample\GoogleMapsAdvSample.csproj
+	EndGlobalSection
+EndGlobal
